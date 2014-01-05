@@ -1,0 +1,51 @@
+Data Mining in E-commerce for consumer behaviour analysis
+
+Survey on application of data mining in medical image classification
+
+A survey on Automatic classification and retrieval techniques for  medical image mining
+
+Content Based Image Retrieval approaches and their applications for medcal imaging
+
+Problem: how to effectively extract an image from a medical database by providing a description of the image content.
+
+ Paper 1: Mining medical images
+ How CAD softwares work and their challenges
+ 
+ Paper 2: Automatic categorization of medical images for content-based retrieval and data mining
+ image categorization aproaches being used
+ 
+ paper 3: Using Some Data Mining Techniques for Early Diagnosis of Lung Cancer
+ classify x-rays into normal and abnormal
+ 
+ paper 4: Data mining in brain imaging
+ 
+ paper 5: Application of Data Mining Techniques for Medical Image Classification
+ - use of different data mining techniques, neural networks and association rule mining, for anomaly detection and classification
+- 
+ 
+ paper 6: Evidence Combination in Medical Data Mining
+ 
+ paper 7: Medical Image Classification Using an Efficient Data Mining Technique 
+ 
+ paper 8: associative classifiers fr medical images
+ 
+ paper 9: intelligent data mining for medical quality management
+
+
+Abstract:
+
+The use of data mining techniques for medical images in heal th care is on a rise. Doctors are increasingly relying on mining existing images for computer aided detection (CAD) of new cases. These include X-Rays, MRI scans, CT scans, mammographs.. of existing cases. Some of the challenges being faced in using such techniques are a large data set, inherent noise in medical images, and the problem of organization of the image database. These problems can be solved by introduction of efficient medical image classification and retrieval methods.
+This survey aims to study and compare the various methods being used for automatic classification and retrieval of medical images for the purpose of data mining. 
+For image classification, methods such as associative rule mining and neural networks were studied. Most hospitals use textual description for retrieving images from a data base. This method is not efficient because it dependends on individuals' perception and interpretation. For retrieval, content based image retrieval (CBIR), query by example (QBE) and image retrieval in medical applications (IRMA).
+These methods will be summarized.
+
+
+Different methods have been used to classify and detect anomalies in
+medical images, such as wavelets [4, 15], fractal theory [8], statistical methods
+[6] and most of them used features extracted using image processing techniques
+[13]. In addition, some other methods were presented in the literature based on
+fuzzy set theory [3], Markov models [7] and neural networks [5, 9]. Most of the
+computer-aided methods proved to be powerful tools that could assist medical
+staff in hospitals and lead to better results in diagnosing a patient.
+
+

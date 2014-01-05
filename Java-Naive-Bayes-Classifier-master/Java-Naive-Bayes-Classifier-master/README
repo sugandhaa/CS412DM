@@ -1,0 +1,11 @@
+Naive Bayes Classifier implemented in Java.
+
+Nothing special, but it works.
+
+Performance improvements, I am currently thinking of:
+
+- Store the natural logarithms of the feature probabilities and add them together instead of multiplying the probability numbers
+
+The classifier will forget classifications after - defaulting to 200 - classifications learned.
+This will ensure, that the classifier can react to ongoing changes in the user's habbits.
+

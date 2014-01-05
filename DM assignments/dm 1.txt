@@ -1,0 +1,34 @@
+1. BIG DATA refers to data in very large  volumes. Such data can originate from business applications, scientific experiments, websites, routine retail transactions etc. Big data is characterized by its bulk and a high frequency of creation. Such data cannot be processed in a timely manner using traditional softwares and create a need for a specialized data management system. Advanced data analytics and mining on data warehouses are used for big data processing.
+Analysis of Big Data can give a lot of insights into the processes that have created them, and can be used to find useful petterns and make corrections/ adjustments to processes. It can also be used to make predicitons about future data by extrapolating current trends.
+
+2. Big Data analysis is important in the near future for the following reasons:
+ a. For businesses and retail sector, it can provide a competitive edge by basing the business decsions on all the available data rather than a small subset. It can help in pattern discovery, fraud detection and demand forecasting.
+  b. For scientific and research applications, the ability to process data rapidly will lead to advancement in the knowledge of fields where data analysis was previously a bottleneck.
+ <WRITE MORE> 
+ 
+ 3. 2 such prominent applications in todays time are big data in education and healthcare sectors.
+
+EDUCATION:
+Big data analysis can provide a better understanding of the learning process of students. Softwares to analyse the learning process, and where majority of students are typically making similar mistakes can help the instructors to improve their teaching methods. Statistical study of learning patterns will be of greater help than classroom teaching methods, since it is not possible to analyse such trends in a classroom environment.
+For an exam administered to thousand of students at the same time, a number of parameters such as the time taken to answer a particular question, performance in each subject area, and general blind spots in understanding can be easily recorded and analysed. It can help the instructors gauge what teaching methoda work better than the others. Moreover, this also opens up the option for cutomizations of study softwares based on the classes of students depending on their recorded performance in online tests. Data driven techniques can also be used to provide immediate performance feedbacks when the questions are still fresh in the student's mind.
+
+HEALTHCARE:
+Use of data mining in healthcare sector is gaining importance. It benefits all parties involved. Doctors can use it to study past past cases that were similar to current and the treatment given, for fast processing of X-Ray scans etc. Patients will recieve more accurate and affordable treatment.
+A good example of this is google flu trends that can predict flu many days before official reports. Such mining can help hospitals and pharmacies be prepared in advanced to handle the increased inflow of such patients.
+There is a huge volume of readily available health care records data. Once a large database of such aptterns is collated, standardized treatment methodologies can be developed for diseases.
+Apart from these obvious applications, big data analysis in healthcare can also help hospitals in CRM and insurance companies in detecting fraud. There can be other research based applications like data mining for study of DNA genome samples for discovering new cures.
+
+
+Answer 2:
+1. a. Equal width partitioning
+1-20 22
+20-40 1
+40-60 2
+60-80 11
+80-100 4
+
+b. equal depth partitioning
+
+
+Ans. 3. Description of dimensions:
+aaaaaaaaaaaaaaadasdsad
